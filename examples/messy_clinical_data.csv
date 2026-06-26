@@ -1,0 +1,5 @@
+patient_id,age,sex,diagnosis_date,response,response_score,mostly_missing
+A,45,Male,2024-01-01,1,0.91,
+A,121, male ,bad,1,0.88,
+B,-3,F,2024-03-01,0,0.10,
+C,70,Female,2024-04-01,0,0.20,1

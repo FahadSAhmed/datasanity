@@ -1,0 +1,3 @@
+# Runtime dependencies are declared in pyproject.toml.
+# Install for development with:
+# python -m pip install -e .[dev]
